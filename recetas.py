@@ -19,3 +19,9 @@ def receta_tacos():
     print(" Receta: Tacos de pollo")
     print("Ingredientes: tortillas, pollo, cebolla, cilantro")
     print("Pasos: Cocinar el pollo, calentar las tortillas, armar los tacos.")
+
+#Otro ejemplo
+def Alambre():
+    print(" Receta: Alambre")
+    print("Ingredientes: pimiento morron, carne de res, queso")
+    print("Pasos: Cocinar todo junto.")
